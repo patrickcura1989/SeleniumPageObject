@@ -1,0 +1,8 @@
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+c:\users\pie-asus\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
